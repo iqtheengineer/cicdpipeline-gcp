@@ -1,9 +1,8 @@
 <img src = "readmeimages/tomcat.jpg" width = 600>
 
-# **Tomcat**
-**Tomcat 8 Docker Repository**
+# **GCP CI/CD REPO**
 
-This repository contains files to run a sample application on Tomcat 8 and demonstrates a CI/CD process in action.
+This repository displays a CI/CD pipeline process for Google Cloud(GCP), using Cloud Build, Google Container Registry and Cloud run to continuously build and deploy a simple Java application.
 
 # **The Docker file**
 - Builds the tomcat 8.5 instance from scratch

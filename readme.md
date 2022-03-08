@@ -1,4 +1,5 @@
-![apache tomcat](tomcat.jpg)
+<img src = "readmepics/tomcat.jpg" width = 300>
+
 # **Tomcat**
 **Tomcat 8 Docker Repository**
 

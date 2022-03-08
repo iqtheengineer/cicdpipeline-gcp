@@ -1,4 +1,4 @@
-<img src = "readmeimages/tomcat.jpg" width = 600>
+<img src = "readmeimages/google-cloud-logo-1.png" width = 500>
 
 # **GCP CI/CD REPO**
 

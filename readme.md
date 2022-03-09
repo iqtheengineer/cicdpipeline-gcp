@@ -18,4 +18,4 @@ This repository displays a CI/CD pipeline process for Google Cloud(GCP), using C
 - Deploys the image to Google Cloud Run
 
 # **The main.tf file**
-- Is a terraform file which creates a trigger on Google Cloud Build on the supplied parameters
+- This is a terraform file which creates a trigger on Google Cloud Build on the supplied parameters

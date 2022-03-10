@@ -2,7 +2,7 @@
 
 # **GCP CI/CD REPO**
 
-This repository displays a CI/CD pipeline process for Google Cloud(GCP), using Cloud Build, Google Container Registry and Cloud run to continuously build and deploy a simple Java application.
+This repository displays a CI/CD pipeline process for Google Cloud(GCP), using Terraform, Cloud Build, Google Container Registry and Cloud run to continuously build and deploy a simple Java application.
 
 The diagram was created using Google Cloud's new diagram tool. You can learn more about it here: https://googlecloudcheatsheet.withgoogle.com/architecture
 
